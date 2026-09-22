@@ -4,6 +4,8 @@ A React Native/Expo mobile app for running location-based scavenger hunts on Geo
 
 Current status: Full lifecycle implemented (sign-up to end game) with listeners for live-data changes. However, still wrapping up adding artifacts + testing before publishing (hopefully by the end of Fall 2026?)
 
+[See demo from Fall 2025 here](https://drive.google.com/file/d/1y3kmOH5Z1rpWbfgBAcqEXlGRrK9hH4I9/view?usp=sharing)
+
 ### Game lifecycle flow
 
 1. **Auth** — `WelcomeScreen` → `LogInScreen` / `SignUpScreen` (Firebase Auth)
