@@ -4,7 +4,7 @@ import { LinearGradient } from 'expo-linear-gradient';
 import { COLORS } from '../components/theme';
 import { Figtree_400Regular, Figtree_600SemiBold, useFonts } from '@expo-google-fonts/figtree'
 import BackButton from '../components/BackButton';
-import Entypo from '@expo/vector-icons/Entypo';
+import { Entypo } from '@expo/vector-icons';
 
 // eventually, pull this array from Firebase
 const results = [
